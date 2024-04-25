@@ -19,7 +19,7 @@ The goal of this session is to leave with an understanding of the tools availabl
 
 ### Installation of atmospy
 
-We ask that prior to attending the conference training session, you install `atmospy` and its dependencies following the instructions in the [offical documentation](https://dhhagan.github.io/atmospy/index.html).
+We ask that prior to attending the conference training session, you install `atmospy` and its dependencies following the instructions in the [official documentation](https://dhhagan.github.io/atmospy/index.html).
 
 
 If you have any issues with installation, please open an issue on this repository. 
