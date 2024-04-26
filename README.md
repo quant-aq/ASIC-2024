@@ -12,17 +12,29 @@ The goal of this session is to leave with an understanding of the tools availabl
 
 ## The official description:
 
-| Preparing visually appealing and scientifically valid figures is crucial for ensuring positive outcomes for communities and scientists alike when using air sensors. In attending this tutorial, you will learn how to make puplication-quality figures to communicate the air sensor data you've collected for use in presentations, reports, and more. This session focuses on using the open-source programming language, python, to visualize data effectively. We will cover how to prepare your data and munge it into the correct format, create common figures, and use the `atmospy` python library to make your data visualization life easier.
+> Preparing visually appealing and scientifically valid figures is crucial for ensuring positive outcomes for communities and scientists alike when using air sensors. In attending this tutorial, you will learn how to make puplication-quality figures to communicate the air sensor data you've collected for use in presentations, reports, and more. This session focuses on using the open-source programming language, python, to visualize data effectively. We will cover how to prepare your data and munge it into the correct format, create common figures, and use the `atmospy` python library to make your data visualization life easier.
+
+
+### Session Outline
+
+Below is the session outline. More details to come:
+
+| Time | Type | Description |
+|:----:|:----:|:------------|
+| 10 min | code | Install `atmospy` and dependencies (we will be there to help if needed!)|
+| 20 min | presentation | An introduction to plotting in Python|
+| 30 min | presentation + code | Overview of foundational air quality figures with `atmospy` |
+| 30 min| code | Making plots with your own data (or provided example datasets) - we will be there to walk around and help you with your own datasets and/or answer questions |
 
 
 ## Pre-Conference Work
 
 ### Installation of atmospy
 
-We ask that prior to attending the conference training session, you install `atmospy` and its dependencies following the instructions in the [official documentation](https://dhhagan.github.io/atmospy/index.html).
+We ask that prior to attending the conference training session, you install `atmospy` and its dependencies following the instructions in the [official documentation](https://dhhagan.github.io/atmospy/index.html). It's unclear what the conference WiFi situation will be, so doing so ahead of time may reduce issues.
 
 
-If you have any issues with installation, please open an issue on this repository. 
+If you have any issues with installation, please open an issue on [this repository](https://github.com/quant-aq/ASIC-2024/issues). **Note: you will need to create a GitHub account to do so if you don't already have one**. If you can't create an issue for some reason, please email david.hagan@quant-aq.com.
 
 ### Bring your own data (if you'd like to)
 
