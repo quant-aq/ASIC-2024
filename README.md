@@ -31,10 +31,19 @@ Below is the session outline. More details to come:
 
 ### Installation of atmospy
 
-We ask that prior to attending the conference training session, you install `atmospy` and its dependencies following the instructions in the [official documentation](https://dhhagan.github.io/atmospy/index.html). It's unclear what the conference WiFi situation will be, so doing so ahead of time may reduce issues.
+We ask that prior to attending the conference training session, you install `atmospy` and its dependencies into your preferred python development setup following the instructions in the [official documentation](https://dhhagan.github.io/atmospy/index.html). It's unclear what the conference WiFi situation will be, so doing so ahead of time may reduce issues.
 
 
 If you have any issues with installation, please open an issue on [this repository](https://github.com/quant-aq/ASIC-2024/issues). **Note: you will need to create a GitHub account to do so if you don't already have one**. If you can't create an issue for some reason, please email david.hagan@quant-aq.com.
+
+### Help, I don't have python installed at all!
+
+If you don't have any existing local python environment (and the conference wifi is amenable), you can use Google Colab as an easy browser-based python notebook tool for the tutorial instead. You will need a Google account, then head to [https://colab.new/](https://colab.new/) and run:
+```
+%pip install atmospy
+import atmospy
+```
+you should be able to follow along with the tutorial. 
 
 ### Bring your own data (if you'd like to)
 
