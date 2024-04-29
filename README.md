@@ -21,10 +21,10 @@ Below is the session outline. More details to come:
 
 | Time | Type | Description |
 |:----:|:----:|:------------|
+| 20-30 min | presentation | An introduction to plotting in Python|
 | 10 min | code | Install `atmospy` and dependencies (we will be there to help if needed!)|
-| 20 min | presentation | An introduction to plotting in Python|
 | 30 min | presentation + code | Overview of foundational air quality figures with `atmospy` |
-| 30 min| code | Making plots with your own data (or provided example datasets) - we will be there to walk around and help you with your own datasets and/or answer questions |
+| 20-30 min| code | Making plots with your own data (or provided example datasets) - we will be there to walk around and help you with your own datasets and/or answer questions |
 
 
 ## Pre-Conference Work
@@ -43,10 +43,10 @@ There will be opportunities during the training to try making figures using your
 
 ## Resources
 
-| Title | Link | Notes |
-|:------|:----:|:------|
-| Slides |  | Coming soon! |
-| Atmospy GitHub Repo | [here](https://github.com/dhhagan/atmospy?tab=readme-ov-file) ||
-| Atmospy Docs | [here](https://dhhagan.github.io/atmospy/index.html) |  |
+| Title | Link | 
+|:------|:----:|
+| Slides |  Available [here](/ASIC%202024%20Tutorial%20[Hagan].pdf) |
+| Atmospy GitHub Repo | Available [here](https://github.com/dhhagan/atmospy?tab=readme-ov-file) |
+| Atmospy Docs | Available [here](https://dhhagan.github.io/atmospy/index.html) |  
 
 
